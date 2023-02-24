@@ -25,6 +25,13 @@ In addition, BlackRock has supported open source through enabling authoring and 
 * [Hashicorp Consul](https://blackrock.com)
 * [Hashicorp Vault](https://blackrock.com)
 * [libcloud](https://libcloud.apache.org/)
+* [Angular](https://blackrock.com)
+* [React](https://blackrock.com)
+* [react-native](https://blackrock.com)
+* [aggrid](https://blackrock.com)
+* [Golang](https://blackrock.com)
+* [Kubernetes](https://blackrock.com)
+* [protobuf](https://blackrock.com)
 * [TODO mbowen to fill in the rest](https://blackrock.com)
 
 We are very excitied to share more and are actively working on our open source program office (OSPO) iniatives. In the meantime, please learn more about what we do at [BlackRock](https://www.blackrock.com), take a look at our [engineering blog](https://medium.com/blackrock-engineering), and take a look at [our career site](https://careers.blackrock.com/life-at-blackrock-2/technology/) to learn more about our open roles! 
