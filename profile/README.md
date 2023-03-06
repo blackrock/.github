@@ -10,29 +10,18 @@ in December 2022.
 In addition, BlackRock has supported open source by enabling our employees in authoring and contributing to open source projects including:
 
 
-### Authoring
+### Authored
 
-* [kafka-security](https://github.com/kafka-security/oauth)
-* [argo-events](https://github.com/argoproj/argo-cd)
-* [todo mbowen to add the rest](https://blackrock.com)
+|     |   |   |   |   |   |   |
+| --- |---|---|---|---|---|---|
+| [argo-events](https://github.com/argoproj/argo-cd) | [kafka-security](https://github.com/kafka-security/oauth) | [OCIBuilder](https://ocibuilder.github.io/docs/) | [LCSO](https://github.com/blackrock/lcso) | [HOLA](https://github.com/blackrock/HOLA/)|   [SeparableOptimization.jl](https://github.com/JuliaFirstOrder/SeparableOptimization.jl) | [PiecewiseQuadratics.jl](https://github.com/JuliaFirstOrder/PiecewiseQuadratics.jl)
 
-### Contributing
+### Contributions 
 
-* [Ansible](https://github.com/ansible/ansible)
-* [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
-* [kpt](https://kpt.dev/)
-* [jupyter](https://github.com/jupyter/)
-* [kafka](https://github.com/apache/kafka)
-* [Hashicorp Consul](https://github.com/hashicorp/consul)
-* [Hashicorp Vault](https://github.com/hashicorp/vault)
-* [libcloud](https://libcloud.apache.org/)
-* [Angular](https://github.com/angular)
-* [React](https://github.com/facebook/react)
-* [react-native](https://github.com/facebook/react-native)
-* [ag-grid](https://github.com/ag-grid/ag-grid)
-* [Golang](https://github.com/golang/go)
-* [Kubernetes](https://github.com/kubernetes/kubernetes)
-* [protobuf](https://github.com/golang/protobuf)
-* [TODO mbowen to fill in the rest](https://blackrock.com)
+|   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|
+| [Kubernetes](https://blackrock.com) | [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) | [kpt](https://kpt.dev/) |  [jupyter](https://blackrock.com) | [kafka](https://blackrock.com) |  [Consul](https://blackrock.com) | [Vault](https://blackrock.com) | [libcloud](https://libcloud.apache.org/) | 
+| [Angular](https://blackrock.com) | [React](https://blackrock.com) | [react-native](https://blackrock.com) | [aggrid](https://blackrock.com) | [Golang](https://blackrock.com) | [protobuf](https://blackrock.com) | [Ansible](https://github.com/ansible/ansible) |  [stenciljs](https://github.com/ionic-team/stencil) | 
+| [gitops-toolkit](https://github.com/rumstead/gitops-toolkit) | [argo-cd](https://github.com/argoproj/argo-cd) | [argo-workflows](https://github.com/argoproj/argo-workflows) | [argo-rollouts](https://github.com/argoproj/argo-rollouts) | [backstage](https://github.com/michael-bowen-sc/backstage ) | [crossplane](https://github.com/crossplane/crossplane) |
 
 We are very excited to share more and are actively working on our open source program office (OSPO) initiatives. In the meantime, please learn more about what we do at [BlackRock](https://www.blackrock.com), read our [engineering blog](https://medium.com/blackrock-engineering), and take a look at [our career site](https://careers.blackrock.com/life-at-blackrock-2/technology/) to learn more about our open roles!
