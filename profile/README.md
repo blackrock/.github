@@ -17,7 +17,6 @@ In addition, BlackRock has supported open source by enabling our employees in au
 
 ### Project Contributions
 
-|   |   |   |   |   |   |   |   |
 | [Kubernetes](https://github.com/kubernetes) | [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) | [kpt](https://kpt.dev/) |  [jupyter](https://github.com/jupyter/) | [kafka](https://github.com/apache/kafka) |  [Consul](https://github.com/hashicorp/consul) | [Vault](https://github.com/hashicorp/vault) | [libcloud](https://libcloud.apache.org/) | 
 |---|---|---|---|---|---|---|---|
 | [Angular](https://github.com/angular/angular) | [React](https://github.com/facebook/react) | [react-native](https://github.com/facebook/react-native) | [aggrid](https://github.com/ag-grid/ag-grid) | [Golang](https://github.com/golang/go) | [protobuf](https://github.com/protocolbuffers/protobuf) | [Ansible](https://github.com/ansible/ansible) |  [stenciljs](https://github.com/ionic-team/stencil) | 
