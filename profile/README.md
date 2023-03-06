@@ -13,12 +13,12 @@ In addition, BlackRock has supported open source by enabling our employees in au
 ### Donated Projects
 
 | [argo-events](https://github.com/argoproj/argo-cd) | [kafka-security](https://github.com/kafka-security/oauth) | [OCIBuilder](https://ocibuilder.github.io/docs/) | [LCSO](https://github.com/blackrock/lcso) | [HOLA](https://github.com/blackrock/HOLA/)|   [SeparableOptimization.jl](https://github.com/JuliaFirstOrder/SeparableOptimization.jl) | [PiecewiseQuadratics.jl](https://github.com/JuliaFirstOrder/PiecewiseQuadratics.jl) |
-| --- |---|---|---|---|---|---|
+|:--- |:---|:---|:---|:---|:---|:---|
 
 ### Project Contributions
 
 | [Kubernetes](https://github.com/kubernetes) | [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) | [kpt](https://kpt.dev/) |  [jupyter](https://github.com/jupyter/) | [kafka](https://github.com/apache/kafka) |  [Consul](https://github.com/hashicorp/consul) | [Vault](https://github.com/hashicorp/vault) | [libcloud](https://libcloud.apache.org/) | 
-|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|
 | [Angular](https://github.com/angular/angular) | [React](https://github.com/facebook/react) | [react-native](https://github.com/facebook/react-native) | [aggrid](https://github.com/ag-grid/ag-grid) | [Golang](https://github.com/golang/go) | [protobuf](https://github.com/protocolbuffers/protobuf) | [Ansible](https://github.com/ansible/ansible) |  [stenciljs](https://github.com/ionic-team/stencil) | 
 | [gitops-toolkit](https://github.com/rumstead/gitops-toolkit) | [kubeless](https://github.com/vmware-archive/kubeless) | [argo-cd](https://github.com/argoproj/argo-cd) | [argo-cd/appset](https://github.com/argoproj/applicationset) | [argo-workflows](https://github.com/argoproj/argo-workflows) | [argo-rollouts](https://github.com/argoproj/argo-rollouts) | [backstage](https://github.com/backstage/backstage ) | [crossplane](https://github.com/crossplane/crossplane) | 
 | [airflow](https://github.com/apache/airflow) | [lagom](https://github.com/lagom/lagom) | [terraform-cdk](https://github.com/hashicorp/terraform-cdk) | [paxos](https://github.com/dibyendumajumdar/paxos) | [face_recognition](https://github.com/ageitgey/face_recognition) | [dask](https://github.com/dask) | [libvault](https://github.com/abedra/libvault) | 
