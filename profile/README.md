@@ -12,9 +12,8 @@ In addition, BlackRock has supported open source by enabling our employees in au
 
 ### Authored
 
-|     |   |   |   |   |   |   |
+| [argo-events](https://github.com/argoproj/argo-cd) | [kafka-security](https://github.com/kafka-security/oauth) | [OCIBuilder](https://ocibuilder.github.io/docs/) | [LCSO](https://github.com/blackrock/lcso) | [HOLA](https://github.com/blackrock/HOLA/)|   [SeparableOptimization.jl](https://github.com/JuliaFirstOrder/SeparableOptimization.jl) | [PiecewiseQuadratics.jl](https://github.com/JuliaFirstOrder/PiecewiseQuadratics.jl) |
 | --- |---|---|---|---|---|---|
-| [argo-events](https://github.com/argoproj/argo-cd) | [kafka-security](https://github.com/kafka-security/oauth) | [OCIBuilder](https://ocibuilder.github.io/docs/) | [LCSO](https://github.com/blackrock/lcso) | [HOLA](https://github.com/blackrock/HOLA/)|   [SeparableOptimization.jl](https://github.com/JuliaFirstOrder/SeparableOptimization.jl) | [PiecewiseQuadratics.jl](https://github.com/JuliaFirstOrder/PiecewiseQuadratics.jl)
 
 ### Contributions 
 
