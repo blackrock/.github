@@ -7,7 +7,8 @@ project, argo-events was accepted to the Cloud Native Computing Foundation (CNCF
 [graduated](https://www.cncf.io/announcements/2022/12/06/the-cloud-native-computing-foundation-announces-argo-has-graduated/) 
 in December 2022. 
 
-In addition, BlackRock has supported open source through enabling authoring and contributing to open source projects including:
+In addition, BlackRock has supported open source by enabling our employees in authoring and contributing to open source projects including:
+
 
 ### Authoring
 
@@ -34,4 +35,4 @@ In addition, BlackRock has supported open source through enabling authoring and 
 * [protobuf](https://github.com/golang/protobuf)
 * [TODO mbowen to fill in the rest](https://blackrock.com)
 
-We are very excitied to share more and are actively working on our open source program office (OSPO) iniatives. In the meantime, please learn more about what we do at [BlackRock](https://www.blackrock.com), take a look at our [engineering blog](https://medium.com/blackrock-engineering), and take a look at [our career site](https://careers.blackrock.com/life-at-blackrock-2/technology/) to learn more about our open roles! 
+We are very excited to share more and are actively working on our open source program office (OSPO) initiatives. In the meantime, please learn more about what we do at [BlackRock](https://www.blackrock.com), read our [engineering blog](https://medium.com/blackrock-engineering), and take a look at [our career site](https://careers.blackrock.com/life-at-blackrock-2/technology/) to learn more about our open roles!
