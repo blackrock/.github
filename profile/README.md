@@ -7,7 +7,7 @@ project, argo-events was accepted to the Cloud Native Computing Foundation (CNCF
 [graduated](https://www.cncf.io/announcements/2022/12/06/the-cloud-native-computing-foundation-announces-argo-has-graduated/) 
 in December 2022. 
 
-In addition, BlackRock has supported open source by enabling our employees to author and contribute open source projects including:
+In addition, BlackRock has supported open source by enabling our employees to author and contribute to open source projects including:
 
 * [argo-events](https://github.com/argoproj/argo-cd) 
 * [kafka-security](https://github.com/kafka-security/oauth) 
