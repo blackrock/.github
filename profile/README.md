@@ -9,7 +9,15 @@ in December 2022.
 
 In addition, BlackRock has supported open source by enabling our employees to author and contribute open source projects including:
 
-| [argo-events](https://github.com/argoproj/argo-cd) | [kafka-security](https://github.com/kafka-security/oauth) | [OCIBuilder](https://ocibuilder.github.io/docs/) | [LCSO](https://github.com/blackrock/lcso) | [HOLA](https://github.com/blackrock/HOLA/)|   [SeparableOptimization.jl](https://github.com/JuliaFirstOrder/SeparableOptimization.jl) | [PiecewiseQuadratics.jl](https://github.com/JuliaFirstOrder/PiecewiseQuadratics.jl) |
-|:--- |:---|:---|:---|:---|:---|:---|
+* [argo-events](https://github.com/argoproj/argo-cd) 
+* [kafka-security](https://github.com/kafka-security/oauth) 
+* [OCIBuilder](https://ocibuilder.github.io/docs/)
+* [LCSO](https://github.com/blackrock/lcso)  
+* [HOLA](https://github.com/blackrock/HOLA/)
+* [SeparableOptimization.jl](https://github.com/JuliaFirstOrder/SeparableOptimization.jl) 
+* [PiecewiseQuadratics.jl](https://github.com/JuliaFirstOrder/PiecewiseQuadratics.jl) 
 
 We are very excited to share more and are actively working on our open source initiatives. In the meantime, please learn more about what we do at [BlackRock](https://www.blackrock.com), read our [engineering blog](https://medium.com/blackrock-engineering), and take a look at [our career site](https://careers.blackrock.com/life-at-blackrock-2/technology/) to learn more about our open roles!
+
+
+**Official BlackRock Engineering Open Source**. From the designers & developers of industry-leading platform Aladdin®. Important disclosures: http://bit.ly/17XHCyc
