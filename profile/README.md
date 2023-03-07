@@ -1,4 +1,4 @@
-![BlackRock Open Source](https://github.com/blackrock/.github-private/blob/main/images/blk-ossp.png) 
+![BlackRock Open Source](https://github.com/blackrock/.github-private/blob/main/images/blk-ossp2.png) 
 
 BlackRock is passionate about open source software and aims to be a leader in financial technology.
 One of our significant contributions to open source is [argo-events](https://github.com/argoproj/argo-events), an
