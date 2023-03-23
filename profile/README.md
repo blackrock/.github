@@ -9,7 +9,7 @@ in December 2022.
 
 In addition, BlackRock has supported open source by enabling our employees to author and contribute to open source projects including:
 
-* [argo-events](https://github.com/argoproj/argo-events) 
+* [argo-events](https://github.com/argoproj/argo-events) (check out our CNCF talk [here on YouTube](https://www.youtube.com/watch?v=ZK510prml8o)!)
 * [kafka-security](https://medium.com/blackrock-engineering/utilizing-oauth-for-kafka-security-5c1da9f3d3d) 
 * [OCIBuilder](https://medium.com/blackrock-engineering/ocibuilder-an-easy-button-for-building-oci-container-images-8272d0f5cc62)
 * [LCSO](https://medium.com/blackrock-engineering/writing-an-optimization-library-in-rust-588628c0e500)  
