@@ -10,15 +10,15 @@ in December 2022.
 In addition, BlackRock has supported open source by enabling our employees to author and contribute to open source projects including:
 
 * [argo-events](https://github.com/argoproj/argo-events) - 
-check out our KubeCon talk on [Automatic Research Workflows at BlackRock](https://www.youtube.com/watch?v=ZK510prml8o)!
+check out our KubeCon talk, "[Automatic Research Workflows at BlackRock](https://www.youtube.com/watch?v=ZK510prml8o)" (YouTube)
 * [kafka-security](https://github.com/kafka-security/oauth) - 
-[Utilizing OAuth for Kafka Security](https://medium.com/blackrock-engineering/utilizing-oauth-for-kafka-security-5c1da9f3d3d)
+"[Utilizing OAuth for Kafka Security](https://medium.com/blackrock-engineering/utilizing-oauth-for-kafka-security-5c1da9f3d3d)" (blog)
 * [OCIBuilder](https://ocibuilder.github.io/docs/) - 
-[An Easy Button for Building OCI Container Images](https://medium.com/blackrock-engineering/ocibuilder-an-easy-button-for-building-oci-container-images-8272d0f5cc62)
+"[An Easy Button for Building OCI Container Images](https://medium.com/blackrock-engineering/ocibuilder-an-easy-button-for-building-oci-container-images-8272d0f5cc62)" (blog)
 * [LCSO](https://github.com/blackrock/lcso) - 
-[Writing an Optimization Library in Rust](https://medium.com/blackrock-engineering/writing-an-optimization-library-in-rust-588628c0e500)  
+"[Writing an Optimization Library in Rust](https://medium.com/blackrock-engineering/writing-an-optimization-library-in-rust-588628c0e500)" (blog)
 * [HOLA](https://github.com/blackrock/HOLA/) - 
-[A Lightweight Hyperparameter Optimization Software Package](https://medium.com/blackrock-engineering/hola-optimization-a-lightweight-hyperparameter-optimization-software-package-321cc7c2bf4c)
+"[A Lightweight Hyperparameter Optimization Software Package](https://medium.com/blackrock-engineering/hola-optimization-a-lightweight-hyperparameter-optimization-software-package-321cc7c2bf4c)" (blog)
 * [SeparableOptimization.jl](https://github.com/JuliaFirstOrder/SeparableOptimization.jl) 
 * [PiecewiseQuadratics.jl](https://github.com/JuliaFirstOrder/PiecewiseQuadratics.jl) 
 
