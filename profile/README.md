@@ -19,6 +19,7 @@ check out our KubeCon talk, "[Automatic Research Workflows at BlackRock](https:/
 "[Writing an Optimization Library in Rust](https://medium.com/blackrock-engineering/writing-an-optimization-library-in-rust-588628c0e500)" (blog)
 * [HOLA](https://github.com/blackrock/HOLA/) - 
 "[A Lightweight Hyperparameter Optimization Software Package](https://medium.com/blackrock-engineering/hola-optimization-a-lightweight-hyperparameter-optimization-software-package-321cc7c2bf4c)" (blog)
+* [EJML](https://ejml.org) - "[Open-sourcing a faster matrix calculation in Java](https://engineering.blackrock.com/open-sourcing-a-faster-matrix-calculation-in-java-a29fafd9d599)" (blog)
 * [SeparableOptimization.jl](https://github.com/JuliaFirstOrder/SeparableOptimization.jl) 
 * [PiecewiseQuadratics.jl](https://github.com/JuliaFirstOrder/PiecewiseQuadratics.jl) 
 
