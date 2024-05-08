@@ -23,6 +23,7 @@ check out our KubeCon talk, "[Automatic Research Workflows at BlackRock](https:/
 * [SeparableOptimization.jl](https://github.com/JuliaFirstOrder/SeparableOptimization.jl) 
 * [PiecewiseQuadratics.jl](https://github.com/JuliaFirstOrder/PiecewiseQuadratics.jl) 
 * [InGen](https://github.com/blackrock/ingen) - "[Introducing InGen](https://engineering.blackrock.com/introducing-ingen-cb6a5083788c)" (blog)
+* [AladdinSDK](https://github.com/blackrock/aladdinsdk) & [AladdinSDK Plugin Builder](https://github.com/blackrock/aladdinsdk-plugin-builder) - "[Open Sourcing the AladdinSDK](https://engineering.blackrock.com/open-sourcing-the-aladdinsdk-empower-python-developers-with-a-quantitative-edge-7f63376061e6)" (blog)
 
 We are very excited to share more and are actively working on our open source initiatives. In the meantime, please learn more about what we do at [BlackRock](https://www.blackrock.com), read our [engineering blog](https://medium.com/blackrock-engineering), and take a look at [our careers site](https://careers.blackrock.com/life-at-blackrock-2/technology/) to learn more about our open roles!
 
